@@ -1,0 +1,56 @@
+.calc {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.brief {
+    width: 50%;
+    height: 200px;
+    padding: 20px;
+    background-color: blue;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.deploy {
+    background-color: blue;
+    width: 50%;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 25%;
+}
+.block {
+    display: block;
+    width: 95%;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.blue {
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.finish {
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.page3 {
+    background-color: blue;
+    width: 50%;
+    height: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-align: left;
+    margin-left: 25%;
+}
