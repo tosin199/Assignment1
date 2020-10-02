@@ -5,8 +5,9 @@ This is an application developed at the cause of my six month web development tr
 ## Instruction
 You will be required to use letters for the name and number for age in years.
 
-## Calculator Image
-![This is a alt text.] (agecalculator.png "This is a sample image.")
+# Calculator Image
+![This is an alt text] (/agecalculator.png "This is a sample image.")
+![This is an alt text](/agecalculator.png "This is a sample image.")
 
 ## Link
 (https://github.com/tosin199/Assignment1.git)
@@ -16,8 +17,11 @@ Html
 Css(background-color,padding,width,height)
 Javascript
 
-### Author
+# Live Demo
+This is a live demo(https://raw.githack.com/tosin199/Assignment1/master/index.)
+# Author
 Olawoye Lydia Tosin
+###
 Github: @tosin199
 Twitter: @olawoye_lydia
 Linkedin: Olawoye Lydia Tosin
@@ -25,8 +29,9 @@ Linkedin: Olawoye Lydia Tosin
 ## Contributing
 Contributions, issues and feature requests are welcome!
 
-### Acknowledgements
+# Acknowledgements
+###
 github: @Gnwin
-github: @chiomy
+github: @Chiomy
 twitter:@hub_mic
 twitter:@HomeFrontStartup
